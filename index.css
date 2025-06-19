@@ -561,7 +561,6 @@ body {
 /* Section styling */
 #chatbot.section {
   padding: 60px 20px;
-  background-color: #f9f9f9;
   text-align: center;
 }
 
@@ -577,13 +576,13 @@ body {
   font-size: 2rem;
   font-weight: 700;
   margin-bottom: 20px;
-  color: #333;
+  color: #ffffff;
 }
 
 /* Paragraph and link styling */
 #chatbot p {
   font-size: 1.1rem;
-  color: #444;
+  color: #ffffff;
   line-height: 1.6;
 }
 
