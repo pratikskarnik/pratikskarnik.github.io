@@ -249,6 +249,7 @@ body {
 }
 
 #userbio {
+  color: #fff;
   font-size: 26px;
   font-family: "Questrial", sans-serif;
   width: 100%;
@@ -556,4 +557,48 @@ body {
     ),
     url("https://images.unsplash.com/photo-1553748024-d1b27fb3f960?w=1500&q=80");
   --background-background: #fff;
+}
+/* Section styling */
+#chatbot.section {
+  padding: 60px 20px;
+  background-color: #f9f9f9;
+  text-align: center;
+}
+
+/* Container styling */
+#chatbot .container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+/* Title styling */
+#chatbot .section-title {
+  font-size: 2rem;
+  font-weight: 700;
+  margin-bottom: 20px;
+  color: #333;
+}
+
+/* Paragraph and link styling */
+#chatbot p {
+  font-size: 1.1rem;
+  color: #444;
+  line-height: 1.6;
+}
+
+#chatbot a {
+  display: inline-block;
+  margin-top: 10px;
+  color: #ffffff;
+  background-color: #007bff;
+  padding: 10px 20px;
+  text-decoration: none;
+  border-radius: 6px;
+  font-weight: 600;
+  transition: background-color 0.3s ease;
+}
+
+#chatbot a:hover {
+  background-color: #0056b3;
 }
