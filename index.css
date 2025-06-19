@@ -561,6 +561,7 @@ body {
 /* Section styling */
 #chatbot.section {
   padding: 60px 20px;
+  background-color: transparent;
   text-align: center;
 }
 
