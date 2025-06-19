@@ -587,7 +587,7 @@ body {
   line-height: 1.6;
 }
 
-#chatbot a {
+#chatbot .chatbot-button {
   display: inline-block;
   margin-top: 10px;
   color: #ffffff;
@@ -599,6 +599,7 @@ body {
   transition: background-color 0.3s ease;
 }
 
-#chatbot a:hover {
+#chatbot .chatbot-button:hover {
   background-color: #0056b3;
 }
+
